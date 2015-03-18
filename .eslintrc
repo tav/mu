@@ -1,0 +1,14 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "no-constant-condition": false,
+    "no-return-assign": false,
+    "no-underscore-dangle": false,
+    "no-use-before-define": false,
+    "quotes": false,
+    "strict": "function"
+  }
+}
